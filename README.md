@@ -2,9 +2,7 @@
 
 私的なCLIP STUDIOのDocument
 
-[ショートカットチートシート](./document/Shortcut.md)
-
-書きかけ
+[ショートカット](./document/Shortcut.md)
 
 [~~ベクターレイヤー~~](./document/VectorLayer.md)
 
