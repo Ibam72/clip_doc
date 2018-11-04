@@ -2,7 +2,9 @@
 
 私的なCLIP STUDIOのDocument
 
-* [ショートカットチートシート]: ./document/Shortcut.md
-* [~~ベクターレイヤー~~]: ./document/VectorLayer.md
-* [~~定規~~]: ./document/Ruler.md
-* ~~縁取り~~
+[ショートカットチートシート](./document/Shortcut.md)
+
+書きかけ
+
+[~~ベクターレイヤー~~](./document/VectorLayer.md)
+[~~定規~~](./document/Ruler.md)
