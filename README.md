@@ -2,6 +2,11 @@
 
 ## 私的なCLIP STUDIOのDocument
 
+
+### 環境設定
+
+[ショートカット登録](./document/RegisterShortcut.md)
+
 ### チートシート
 
 [ショートカット](./document/Shortcut.md)
