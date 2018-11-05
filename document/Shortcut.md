@@ -2,9 +2,13 @@
 
 ## ショートカット
 
-とりあえずよく使うものを記載
+とりあえずよく使うものを記載　
+
+詳細は以下のリンク
 
 [本家](https://www.clip-studio.com/site/gd/csp/manual/userguide/csp_userguide/900_shortcut/900_shortcut_0.htm)
+
+[有志のShortcutList](http://blackstraycat.nobody.jp/digitalillustration/clipstudio-paint/clipstudio-paint-shortcut.html)
 
 ### ツール系
 
@@ -33,3 +37,5 @@
 | 新規ラスターレイヤー           | Ctrl+Shift+N          |
 | 選択中のレイヤーの統合         | Ctrl+Alt+E            |
 | クリック対象のレイヤーへの移動 | Ctrl+Shift+左クリック |
+| サブカラーとの切り替え         | X                     |
+| 透明色との切り替え             | C                     |
