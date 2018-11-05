@@ -15,6 +15,10 @@
 
 [~~ベクターレイヤー~~](./document/VectorLayer.md)
 
+### 配色関係
+
+[~~配色~~](./document/ColorScheme.md)
+
 ### 小物関係
 
 [~~定規~~](./document/Ruler.md)
