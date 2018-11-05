@@ -4,6 +4,8 @@
 
 とりあえずよく使うものを記載
 
+[本家](https://www.clip-studio.com/site/gd/csp/manual/userguide/csp_userguide/900_shortcut/900_shortcut_0.html)
+
 ### ツール系
 
 | ツール名       | キーバインド |
