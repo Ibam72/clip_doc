@@ -1,6 +1,6 @@
 # CLIP STUDIOのDocument
 
-## 私的なCLIP STUDIOのDocument
+## 私用のCLIP STUDIOのDocument
 
 
 ### 環境設定
