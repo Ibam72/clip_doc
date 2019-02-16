@@ -6,6 +6,8 @@
 
 詳細は以下のリンク
 
+標準でないものもある
+
 [本家](https://www.clip-studio.com/site/gd/csp/manual/userguide/csp_userguide/900_shortcut/900_shortcut_0.htm)
 
 [有志のShortcutList](http://blackstraycat.nobody.jp/digitalillustration/clipstudio-paint/clipstudio-paint-shortcut.html)
